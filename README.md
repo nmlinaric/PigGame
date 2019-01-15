@@ -1,4 +1,4 @@
-# The-Pig-Game
+# The Pig Game
 Fun 2 player game with two dice.
 
 Easy to play game written in JavaScript.
