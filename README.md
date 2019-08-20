@@ -1,4 +1,4 @@
-# [The Pig Game](https://nmlinaric.github.io/PigGame/)
+# [The Pig Game](https://nmlinaric.github.io/PigGame/) Try it out
 Fun 2 player game with two dice.
 
 Easy to play game written in JavaScript.
@@ -10,4 +10,4 @@ Easy to play game written in JavaScript.
 - If a double is rolled, the point total is added to the turn total as with any roll but the player is obligated to roll again. 
 - The first player to reach the entered winning score or 200 points (default) wins the game.
 
-More details can be found [here](https://en.wikipedia.org/wiki/Pig_(dice_game)).
+More details about the game can be found [here](https://en.wikipedia.org/wiki/Pig_(dice_game)).
