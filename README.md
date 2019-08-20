@@ -1,4 +1,4 @@
-# [The Pig Game](https://nmlinaric.github.io/PigGame/) ⬅️CLICK
+# [The Pig Game](https://nmlinaric.github.io/PigGame/) ⬅️ click
 Fun 2 player game with two dice.
 
 Easy to play game written in JavaScript.
